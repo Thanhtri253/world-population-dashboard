@@ -1,6 +1,3 @@
-# === Exercise 3: Combined Dashboard (Plotly + Dash) ===
-# File: country_population_dashboard_full.py
-
 import pandas as pd
 import dash
 from dash import dcc, html
